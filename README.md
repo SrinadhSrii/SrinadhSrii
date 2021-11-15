@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Srinadh
-- 👀 I’m interested in web Development
+- 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning Vue.js
